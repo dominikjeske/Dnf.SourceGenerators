@@ -8,6 +8,7 @@
     <PackageScribanIncludeSource>true</PackageScribanIncludeSource>
     <PackageId>Dnf.SourceGenerators</PackageId>
     <PackageProjectUrl>https://dominikjeske.github.io/source-generators/</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>Package contains helpers for working with Source Generators</Description>
 
     <!-- Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
